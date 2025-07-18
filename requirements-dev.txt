@@ -1,0 +1,3 @@
+vcrpy
+pytest
+pytest-vcr
